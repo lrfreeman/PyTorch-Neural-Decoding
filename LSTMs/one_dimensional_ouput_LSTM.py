@@ -1,4 +1,11 @@
 """
+
+# Author: Laurence Freeman
+# Date: 2024--02-16
+# Project: Name of the Project or Module
+# Description: A PyTorch implementation of an LSTM model for regression tasks with a single output dimension.
+
+# -------------------------- LSTM Model for Regression -----------------------------------------------------
 This module contains a PyTorch implementation of an LSTM model for regression tasks, 
 specifically designed to handle sequences of data for predicting a single output dimension.
 Given the assumption that you will want to have a seperate model for each predictor, given that
