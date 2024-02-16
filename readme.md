@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains code and resources for neural decoding using the PyTorch deep learning library. Neural decoding is the process of extracting information from neural activity to understand and interpret brain signals. PyTorch is a popular deep learning framework that provides powerful tools for building and training neural networks.
+This repository contains code and resources for neural decoding using the PyTorch deep learning library. Neural decoding is the process of extracting information from neural activity to understand and interpret brain signals. PyTorch is a popular deep learning framework that provides powerful tools for building and training neural networks. This repo is a place for me to store working decoding models I've implemented in PyTorch during my PhD. 
 
 ## Features
 
